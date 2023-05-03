@@ -2,4 +2,5 @@
 anything if i get ideas
    
    how to use
-   take code paste into consle with inspect.
+
+Copy code and open inspect. go to consle and paste. done.
