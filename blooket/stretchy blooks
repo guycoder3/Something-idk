@@ -1,0 +1,1 @@
+document.querySelector('style').sheet.insertRule(`.${document.querySelector("[class*='_blook_']").className} { transform: scale(1, 2) }`);
